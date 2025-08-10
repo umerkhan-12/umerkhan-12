@@ -68,6 +68,13 @@
 
 ---
 
+### 🏆 Certificates & Achievements
+
+- [Udemy Certificate – Web Development Course by CodeWithHarry](https://github.com/umerkhan-12/umerkhan-12/raw/e3d8410a932cc136d0b4f95128b5318b3e7c2c49/webdev%20certificate.pdf)
+
+
+---
+
 ### 📫 Contact Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://linkedin.com/in/umer-khan10)
