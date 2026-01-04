@@ -77,7 +77,7 @@
 | 🎵 **Spotify Clone** | Responsive audio player with DOM manipulation and UI design |
 | 🔁 **Palindrome Checker** | GUI app in Tkinter to verify palindrome strings |
 | 🔐 **PassMag** | Full-stack password manager using React + Express with responsive UI |
-| 💬 **Chatter-Box** | Real-time chat app with smooth UI and modern design
+| 💬 **Chatter-Box** | Real-time chat app with smooth UI and modern design |
 
 ---
 
@@ -90,7 +90,7 @@
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umerkhan-12&layout=compact&theme=radical&hide_border=true&langs_count=8" />
-  <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=umerkhan-12&theme=redical&hide_border=true&area=true" />
+  <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=umerkhan-12&theme=radical&hide_border=true&area=true" />
 </p>
 
 <p align="center">
