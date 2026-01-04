@@ -19,10 +19,9 @@
 - 💡 Passionate about **Full Stack Development**, **AI Projects**, and **System Design**
 - 💻 Skilled in **JavaScript**, **Python**, **C/C++**, **React.js**, **Node.js**, **MongoDB**, and more
 - 🚀 Built and deployed:  
-  👉 [**Chatter-Box – Live Chat App**](https://chatter-box-umer-khans-projects-312b1261.vercel.app/)  
-  👉 [**NADRA Management System**](https://nadra-management-system-6b04a5bbf3e0.herokuapp.com/)  
+  👉 [**NADRA Management System**](https://nadra-pakistan-a0e7404251e9.herokuapp.com)  
   A comprehensive customer ticket management and NADRA services system with admin dashboard  
-  🔐 **Admin Credentials:** Username: `admin` | Password: `admin123`  
+  🔐 **Admin Credentials:** Username: `admin@nadra.gov.pk` | Password: `admin123`  
   👉 **Chatter-Box – Live Chat App**  
   A modern chat interface with live interaction powered by modern web technologies  
 - 🧠 Currently learning: **Next.js**, **Pandas (Advanced)**, and **Power Platform**
@@ -72,13 +71,12 @@
 
 | Project | Description |
 |--------|-------------|
-| 🧾 **[NADRA Management System](https://nadra-management-system-6b04a5bbf3e0.herokuapp.com/)** | Comprehensive customer ticket management system with admin dashboard (Live! 🔐 Admin: `admin` / `admin123`) |
+| 🧾 **[NADRA Management System](https://nadra-pakistan-a0e7404251e9.herokuapp.com/)** | Comprehensive customer ticket management system with admin dashboard (Live! 🔐 Admin: `admin@nadra.gov.pk` / `admin123`) |
 | 🗣️ **Voice Assistant AI** | Python-based assistant using SpeechRecognition, Edge TTS, and a GUI |
 | 🎵 **Spotify Clone** | Responsive audio player with DOM manipulation and UI design |
 | 🔁 **Palindrome Checker** | GUI app in Tkinter to verify palindrome strings |
 | 🔐 **PassMag** | Full-stack password manager using React + Express with responsive UI |
 | 🧾 **NADRA Assistant** | Customer ticket management system using DS concepts |
-| 💬 **[Chatter-Box](https://chatter-box-umer-khans-projects-312b1261.vercel.app/)** | Real-time chat app with smooth UI and modern design (Live!)
 | 💬 **Chatter-Box** | Real-time chat app with smooth UI and modern design |
 
 ---
@@ -117,7 +115,7 @@
 
 ### 📫 Contact Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://linkedin.com/in/umer-khan10)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/umer-khan10)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:khaankhattack321@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=flat-square&logo=github&logoColor=white)](https://github.com/umerkhan-12)
 
