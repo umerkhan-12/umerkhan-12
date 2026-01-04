@@ -92,7 +92,6 @@
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umerkhan-12&layout=compact&theme=radical&hide_border=true&langs_count=8" />
-  <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=umerkhan-12&theme=radical&hide_border=true&area=true" />
 </p>
 
 <p align="center">
@@ -101,9 +100,8 @@
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=umerkhan-12&theme=darkhub&row=1&column=5" />
-  <img src="https://github-contributor-stats.vercel.app/api?username=umerkhan-12&limit=5&theme=radical&combine_all_yearly_contributions=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=umerkhan-12&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Activity" />
 </p>
-
 ---
 
 ### 🏆 Certificates & Achievements
