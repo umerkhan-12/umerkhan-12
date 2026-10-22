@@ -19,6 +19,7 @@
 - 🔐 Comfortable with **multi-tenant data isolation, JWT + RBAC auth, idempotent payment flows** and concurrency-safe booking logic.
 - ☁️ Leading my Final Year Project, **TerraPath**: pre-deployment attack-path analysis for Terraform-based AWS infrastructure.
 - 🤖 Integrating LLMs into real products with the **Claude API, LangChain, LangGraph and n8n**.
+- 🏆 Built and maintain the **[Coder's Cup 2026](https://coders-cup-2026.vercel.app) registration platform** for FAST NUCES Karachi: team sign-ups, payment verification and an organiser dashboard.
 - 💼 Currently a **Data Annotation Intern at Vidizmo.AI** (Softech Worldwide).
 - 🎯 Open to **Backend Developer** internships and graduate roles.
 
@@ -28,6 +29,7 @@
 
 | Project | What it does | Stack |
 |---|---|---|
+| **[Coder's Cup 2026](https://coders-cup-2026.vercel.app)** · *live, current work* | Team registration and organiser dashboard for FAST NUCES Karachi's coding competition. Seat limits and duplicate CNIC/email/transaction checks enforced in Postgres with row locks, AES-256-GCM encrypted CNICs, receipt uploads re-encoded to strip metadata, role-based admin access, and automatic emails to team leads. | Next.js · TypeScript · Supabase · PostgreSQL · Tailwind CSS · Resend |
 | **TerraPath** · *FYP, in progress* | Parses Terraform into a graph of AWS resources, network reachability and IAM permissions to find exploitable paths from the internet to sensitive data **before deployment**, and ranks the smallest fixes that break them. | Python · networkx · Terraform · AWS IAM · pytest |
 | **CliniBot** · *private, demo on request* | Multi-tenant SaaS where patients book dental appointments on WhatsApp in English or Roman Urdu. Tenant data isolation, double-booking prevention, real-time Google Calendar sync. Built solo, deployed on DigitalOcean. | NestJS · TypeScript · PostgreSQL · Prisma · Next.js |
 | **[CliniBot Client Acquisition](https://github.com/umerkhan-12/Client-Acquisition-System-for-Clinibot)** | 13 n8n workflows over one PostgreSQL schema that discover, research and score clinics, draft personal outreach emails, send within safe limits and classify replies. Deduplication, scoring and rate limiting are single SQL calls so retries stay safe. | n8n · PostgreSQL · SQL |
